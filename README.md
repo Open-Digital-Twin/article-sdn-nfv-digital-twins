@@ -1,4 +1,4 @@
-# Article: [Redes de Computadores aprimoradas por SDN e NFV com o uso de Gemeos Digitais](CMP610_tf.pdf)
+# Article: [Redes de Computadores aprimoradas por SDN e NFV com o uso de Gemeos Digitais](TF-Paper.pdf)
 Language: Portuguese
 
 The following appended document is the final works for the CMP610 course, Software-based and Programmable Networks, written in Portuguese.
