@@ -8,6 +8,6 @@ From the 200 most relevant results from two queries made in Google Scholar, a to
 The article list generated 9 different research topics, serving as a brief summary of the contributions in the three key topics of the research, and how they interact with each other for computer networks.
 
 
-[https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/]([url](https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/))
+[https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/](https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/)
 
 PPGC - INF/UFRGS 2022
