@@ -10,4 +10,4 @@ The article list generated 9 different research topics, serving as a brief summa
 
 [https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/](https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/)
 
-PPGC - INF/UFRGS 2022
+[PPGC - INF/UFRGS](https://www.inf.ufrgs.br/ppgc/) 2022
