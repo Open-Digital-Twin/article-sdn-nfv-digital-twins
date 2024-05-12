@@ -7,6 +7,9 @@ Its main goal is defining the state of the art of the digital twin research in t
 From the 200 most relevant results from two queries made in Google Scholar, a total of 67 papers were analyzed and included in the final results.
 The article list generated 9 different research topics, serving as a brief summary of the contributions in the three key topics of the research, and how they interact with each other for computer networks.
 
+- [Paper](TF-Paper.pdf)
+- [Slides](TF-Slides.pdf)
+- [Accompanying Research](TF-Research.xlsx)
 
 [https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/](https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/)
 
