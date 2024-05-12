@@ -6,3 +6,8 @@ The paper features a systematic research combining computer networks, SDN (Softw
 Its main goal is defining the state of the art of the digital twin research in the context of programmable networks.
 From the 200 most relevant results from two queries made in Google Scholar, a total of 67 papers were analyzed and included in the final results.
 The article list generated 9 different research topics, serving as a brief summary of the contributions in the three key topics of the research, and how they interact with each other for computer networks.
+
+
+[https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/]([url](https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/))
+
+PPGC - INF/UFRGS 2022
