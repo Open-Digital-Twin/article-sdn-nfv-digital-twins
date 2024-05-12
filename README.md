@@ -9,7 +9,7 @@ The article list generated 9 different research topics, serving as a brief summa
 
 - [Paper](TF-Paper.pdf)
 - [Slides](TF-Slides.pdf)
-- [Accompanying Research](TF-Research.xlsx)
+- [Accompanying Research](https://github.com/Open-Digital-Twin/article-sdn-nfv-digital-twins/raw/main/TF-Research.xlsx)
 
 [https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/](https://www.inf.ufrgs.br/ppgc/disciplinas/lista-de-disciplinas/cmp610/)
 
